@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="#FFFFFF"
-    android:orientation="vertical"
-    android:paddingBottom="30dp"
-    tools:context=".MainActivity">
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
 
     <ImageView
         android:id="@+id/imageView"
@@ -19,7 +19,7 @@
         tools:layout_editor_absoluteX="57dp"
         tools:layout_editor_absoluteY="85dp" />
 
-    <android.widget.Button
+    <Button
         android:id="@+id/button1"
         android:layout_width="312dp"
         android:layout_height="70dp"
@@ -35,7 +35,7 @@
         tools:layout_editor_absoluteX="49dp"
         tools:layout_editor_absoluteY="460dp" />
 
-    <android.widget.Button
+    <Button
         android:id="@+id/button2"
         android:layout_width="312dp"
         android:layout_height="70dp"
@@ -47,6 +47,5 @@
         app:iconSize="18dp"
         tools:layout_editor_absoluteX="49dp"
         tools:layout_editor_absoluteY="553dp" />
-
 
 </LinearLayout>
