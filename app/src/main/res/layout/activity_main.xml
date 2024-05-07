@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:gravity="center_horizontal"
-    tools:context=".MainActivity"
+    tools:context="kr.ac.yuhan.cs.andriodproject_cute_jo.MainActivity"
     android:orientation="vertical">
 
     <ImageView
@@ -19,7 +19,7 @@
         tools:layout_editor_absoluteX="57dp"
         tools:layout_editor_absoluteY="85dp" />
 
-    <Button
+    <android.widget.Button
         android:id="@+id/button1"
         android:layout_width="312dp"
         android:layout_height="70dp"
@@ -35,8 +35,8 @@
         tools:layout_editor_absoluteX="49dp"
         tools:layout_editor_absoluteY="460dp" />
 
-    <Button
-        android:id="@+id/button2"
+    <android.widget.Button
+        android:id="@+id/hiragana_a"
         android:layout_width="312dp"
         android:layout_height="70dp"
         android:layout_gravity="center"

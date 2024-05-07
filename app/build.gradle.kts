@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "kr.ac.yuhan.cs.project"
+    namespace = "kr.ac.yuhan.cs.andriodproject_cute_jo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "kr.ac.yuhan.cs.project"
+        applicationId = "kr.ac.yuhan.cs.andriodproject_cute_jo"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
