@@ -20,7 +20,7 @@
         tools:layout_editor_absoluteY="85dp" />
 
     <android.widget.Button
-        android:id="@+id/button1"
+        android:id="@+id/hiragana"
         android:layout_width="312dp"
         android:layout_height="70dp"
         android:layout_gravity="center"
@@ -36,7 +36,7 @@
         tools:layout_editor_absoluteY="460dp" />
 
     <android.widget.Button
-        android:id="@+id/hiragana_a"
+        android:id="@+id/katakana"
         android:layout_width="312dp"
         android:layout_height="70dp"
         android:layout_gravity="center"
