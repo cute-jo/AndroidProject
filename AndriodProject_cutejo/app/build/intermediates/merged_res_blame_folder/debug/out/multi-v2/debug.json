@@ -2305,22 +2305,20 @@
                     }
                 },
                 {
-                    "source": "C:\\cutejo\\AndriodProject_cutejo\\app\\src\\main\\res\\values\\font_style.xml",
+                    "source": "C:\\Users\\YUHAN\\Desktop\\AndroidProject\\AndriodProject_cutejo\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "6,15,9,12,3",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "230,771,408,579,59",
-                        "endLines": "8,17,11,14,5",
-                        "endColumns": "12,12,12,12,12",
-                        "endOffsets": "402,951,573,765,224"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,100",
+                        "endColumns": "41,41",
+                        "endOffsets": "94,137"
                     },
                     "to": {
-                        "startLines": "9146,9149,9152,9155,9158",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "635429,635604,635787,635955,636144",
-                        "endLines": "9148,9151,9154,9157,9160",
-                        "endColumns": "12,12,12,12,12",
-                        "endOffsets": "635599,635782,635950,636139,636307"
+                        "startLines": "640,957",
+                        "startColumns": "4,4",
+                        "startOffsets": "32798,56343",
+                        "endColumns": "41,41",
+                        "endOffsets": "32835,56380"
                     }
                 },
                 {
@@ -2381,23 +2379,6 @@
                     }
                 },
                 {
-                    "source": "C:\\cutejo\\AndriodProject_cutejo\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "59",
-                        "endOffsets": "72"
-                    },
-                    "to": {
-                        "startLines": "1966",
-                        "startColumns": "4",
-                        "startOffsets": "130249",
-                        "endColumns": "59",
-                        "endOffsets": "130304"
-                    }
-                },
-                {
                     "source": "C:\\Users\\YUHAN\\.gradle\\caches\\transforms-4\\887e7d46dbb504881e7369ba5f3d0cf0\\transformed\\lifecycle-runtime-2.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -2429,6 +2410,25 @@
                         "startOffsets": "130166",
                         "endColumns": "82",
                         "endOffsets": "130244"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YUHAN\\Desktop\\AndroidProject\\AndriodProject_cutejo\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,343",
+                        "endLines": "5,7",
+                        "endColumns": "12,90",
+                        "endOffsets": "335,429"
+                    },
+                    "to": {
+                        "startLines": "2405,6320",
+                        "startColumns": "4,4",
+                        "startOffsets": "169138,442400",
+                        "endLines": "2408,6320",
+                        "endColumns": "12,89",
+                        "endOffsets": "169262,442485"
                     }
                 },
                 {
@@ -2487,39 +2487,20 @@
                     }
                 },
                 {
-                    "source": "C:\\cutejo\\AndriodProject_cutejo\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "C:\\Users\\YUHAN\\Desktop\\AndroidProject\\AndriodProject_cutejo\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "102,343",
-                        "endLines": "5,7",
-                        "endColumns": "12,90",
-                        "endOffsets": "335,429"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "59",
+                        "endOffsets": "72"
                     },
                     "to": {
-                        "startLines": "2405,6320",
-                        "startColumns": "4,4",
-                        "startOffsets": "169138,442400",
-                        "endLines": "2408,6320",
-                        "endColumns": "12,89",
-                        "endOffsets": "169262,442485"
-                    }
-                },
-                {
-                    "source": "C:\\cutejo\\AndriodProject_cutejo\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "57,100",
-                        "endColumns": "41,41",
-                        "endOffsets": "94,137"
-                    },
-                    "to": {
-                        "startLines": "640,957",
-                        "startColumns": "4,4",
-                        "startOffsets": "32798,56343",
-                        "endColumns": "41,41",
-                        "endOffsets": "32835,56380"
+                        "startLines": "1966",
+                        "startColumns": "4",
+                        "startOffsets": "130249",
+                        "endColumns": "59",
+                        "endOffsets": "130304"
                     }
                 },
                 {
@@ -2647,6 +2628,25 @@
                         "startOffsets": "123296",
                         "endColumns": "53",
                         "endOffsets": "123345"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YUHAN\\Desktop\\AndroidProject\\AndriodProject_cutejo\\app\\src\\main\\res\\values\\font_style.xml",
+                    "from": {
+                        "startLines": "6,15,9,12,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "230,771,408,579,59",
+                        "endLines": "8,17,11,14,5",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "402,951,573,765,224"
+                    },
+                    "to": {
+                        "startLines": "9146,9149,9152,9155,9158",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "635429,635604,635787,635955,636144",
+                        "endLines": "9148,9151,9154,9157,9160",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "635599,635782,635950,636139,636307"
                     }
                 }
             ]
@@ -2848,7 +2848,7 @@
                     }
                 },
                 {
-                    "source": "C:\\cutejo\\AndriodProject_cutejo\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\YUHAN\\Desktop\\AndroidProject\\AndriodProject_cutejo\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

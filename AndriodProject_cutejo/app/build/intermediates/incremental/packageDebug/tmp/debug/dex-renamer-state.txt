@@ -1,7 +1,7 @@
-#Tue Jun 04 15:03:50 KST 2024
-base.0=C\:\\cutejo\\AndriodProject_cutejo\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\cutejo\\AndriodProject_cutejo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\cutejo\\AndriodProject_cutejo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+#Tue Jun 04 15:40:16 KST 2024
+base.0=C\:\\Users\\YUHAN\\Desktop\\AndroidProject\\AndriodProject_cutejo\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\YUHAN\\Desktop\\AndroidProject\\AndriodProject_cutejo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\YUHAN\\Desktop\\AndroidProject\\AndriodProject_cutejo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=8/classes.dex

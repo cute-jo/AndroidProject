@@ -20,63 +20,63 @@
 15-->[androidx.core:core:1.9.0] C:\Users\YUHAN\.gradle\caches\transforms-4\747c5896af1c1981596c19b789890da0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:5:5-30:19
+17-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:5:5-30:19
 18        android:allowBackup="true"
-18-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:6:9-35
+18-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.9.0] C:\Users\YUHAN\.gradle\caches\transforms-4\747c5896af1c1981596c19b789890da0\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:7:9-65
+20-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:8:9-54
+23-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:9:9-43
+24-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:9:9-43
 25        android:label="@string/app_name"
-25-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:10:9-41
+25-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:10:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:11:9-54
+26-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:12:9-35
+27-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.AndriodProject_cutejo" >
-29-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:13:9-59
+29-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:13:9-59
 30        <activity
-30-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:15:9-23:20
+30-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:15:9-23:20
 31            android:name="kr.ac.yuhan.cs.andriodproject_cute_jo.MainActivity"
-31-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:16:13-41
+31-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:16:13-41
 32            android:exported="true" >
-32-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:17:13-36
+32-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:17:13-36
 33            <intent-filter>
-33-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:18:13-22:29
+33-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:18:13-22:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:19:17-69
-34-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:19:25-66
+34-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:19:17-69
+34-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:19:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:21:17-77
-36-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:21:27-74
+36-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:21:17-77
+36-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:21:27-74
 37            </intent-filter>
 38        </activity>
 39        <activity android:name="kr.ac.yuhan.cs.andriodproject_cute_jo.hiragana" />
-39-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:24:9-45
-39-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:24:19-43
+39-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:24:9-45
+39-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:24:19-43
 40        <activity android:name="kr.ac.yuhan.cs.andriodproject_cute_jo.Quiz1" />
-40-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:25:9-52
-40-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:25:19-40
+40-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:25:9-52
+40-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:25:19-40
 41        <activity android:name="kr.ac.yuhan.cs.andriodproject_cute_jo.Quiz2" />
-41-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:26:9-52
-41-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:26:19-40
+41-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:26:9-52
+41-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:26:19-40
 42        <activity android:name="kr.ac.yuhan.cs.andriodproject_cute_jo.Quiz1Result" />
-42-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:27:9-58
-42-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:27:19-46
+42-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:27:9-58
+42-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:27:19-46
 43        <activity android:name="kr.ac.yuhan.cs.andriodproject_cute_jo.Quiz2Result" />
-43-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:28:9-58
-43-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:28:19-46
+43-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:28:9-58
+43-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:28:19-46
 44        <activity android:name="kr.ac.yuhan.cs.andriodproject_cute_jo.gatakana" />
-44-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:29:9-45
-44-->C:\cutejo\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:29:19-43
+44-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:29:9-45
+44-->C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\AndroidManifest.xml:29:19-43
 45
 46        <provider
 46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\YUHAN\.gradle\caches\transforms-4\968f4d1092d9120b347435baf2fb008d\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20

@@ -25,10 +25,10 @@ kr.ac.yuhan.cs.andriodproject_cute_jo.app-core-runtime-2.2.0-23 C:\Users\YUHAN\.
 kr.ac.yuhan.cs.andriodproject_cute_jo.app-cardview-1.0.0-24 C:\Users\YUHAN\.gradle\caches\transforms-4\e31a2f8c9253492ab534eab34d9c3645\transformed\cardview-1.0.0\res
 kr.ac.yuhan.cs.andriodproject_cute_jo.app-lifecycle-livedata-2.6.1-25 C:\Users\YUHAN\.gradle\caches\transforms-4\e451f4c6e54cbd61973e416a95e6bc05\transformed\lifecycle-livedata-2.6.1\res
 kr.ac.yuhan.cs.andriodproject_cute_jo.app-recyclerview-1.1.0-26 C:\Users\YUHAN\.gradle\caches\transforms-4\e56b45f3b481157b8794a263619424f3\transformed\recyclerview-1.1.0\res
-kr.ac.yuhan.cs.andriodproject_cute_jo.app-pngs-27 C:\cutejo\AndriodProject_cutejo\app\build\generated\res\pngs\debug
-kr.ac.yuhan.cs.andriodproject_cute_jo.app-resValues-28 C:\cutejo\AndriodProject_cutejo\app\build\generated\res\resValues\debug
-kr.ac.yuhan.cs.andriodproject_cute_jo.app-packageDebugResources-29 C:\cutejo\AndriodProject_cutejo\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-kr.ac.yuhan.cs.andriodproject_cute_jo.app-packageDebugResources-30 C:\cutejo\AndriodProject_cutejo\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31 C:\cutejo\AndriodProject_cutejo\app\build\intermediates\merged_res\debug
-kr.ac.yuhan.cs.andriodproject_cute_jo.app-debug-32 C:\cutejo\AndriodProject_cutejo\app\src\debug\res
-kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33 C:\cutejo\AndriodProject_cutejo\app\src\main\res
+kr.ac.yuhan.cs.andriodproject_cute_jo.app-pngs-27 C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\build\generated\res\pngs\debug
+kr.ac.yuhan.cs.andriodproject_cute_jo.app-resValues-28 C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\build\generated\res\resValues\debug
+kr.ac.yuhan.cs.andriodproject_cute_jo.app-packageDebugResources-29 C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+kr.ac.yuhan.cs.andriodproject_cute_jo.app-packageDebugResources-30 C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31 C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\build\intermediates\merged_res\debug
+kr.ac.yuhan.cs.andriodproject_cute_jo.app-debug-32 C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\debug\res
+kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33 C:\Users\YUHAN\Desktop\AndroidProject\AndriodProject_cutejo\app\src\main\res

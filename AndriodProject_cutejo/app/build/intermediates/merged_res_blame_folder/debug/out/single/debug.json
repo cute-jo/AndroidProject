@@ -1,118 +1,114 @@
 [
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\drawable\\ic_launcher_background.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/layout_quiz1_result.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/layout/quiz1_result.xml"
+    },
+    {
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/xml/data_extraction_rules.xml"
     },
     {
         "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/layout_gatakana.xml.flat",
         "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/layout/gatakana.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\layout\\activity_main.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\layout_gatakana.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\layout\\gatakana.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/drawable_frog.png.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/drawable/frog.png"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\xml\\data_extraction_rules.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\layout_hiragana.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\layout\\hiragana.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\layout_quiz1.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\layout\\quiz1.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\layout_quiz2_result.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\layout\\quiz2_result.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/font_murukmuruk.ttf.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/font/murukmuruk.ttf"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\layout_quiz1_result.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\layout\\quiz1_result.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\drawable_frog.png.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\drawable\\frog.png"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/layout_hiragana.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/layout/hiragana.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\font_font.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\font\\font.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/font_font.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/font/font.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\drawable_btn.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\drawable\\btn.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\font_murukmuruk.ttf.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\font\\murukmuruk.ttf"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/layout_quiz1.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/layout/quiz1.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/drawable_quiz_btn.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/drawable/quiz_btn.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\drawable_quiz_btn.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\drawable\\quiz_btn.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/layout_quiz2.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/layout/quiz2.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\layout_quiz2.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\layout\\quiz2.xml"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/layout_quiz2_result.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/layout/quiz2_result.xml"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\YUHAN\\.gradle\\daemon\\8.6\\kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-merged_res-31:/drawable_btn.xml.flat",
+        "source": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-main-33:/drawable/btn.xml"
     }
 ]
