@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#007354"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="91dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="293dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="돌아가기" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/quiz2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Quiz" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_a"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ア\n[ a ]"/>
+
+        <Button
+            android:id="@+id/katakana_i"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="イ\n[ i ]"/>
+
+        <Button
+            android:id="@+id/katakana_u"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ウ\n[ u ]"/>
+
+        <Button
+            android:id="@+id/katakana_e"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="エ\n[ e ]"/>
+
+        <Button
+            android:id="@+id/katakana_o"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="オ\n[ o ]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_ka"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="カ\n[ka]"/>
+
+        <Button
+            android:id="@+id/katakana_ki"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="キ\n[ ki ]"/>
+
+        <Button
+            android:id="@+id/katakana_ku"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ク\n[ku]"/>
+
+        <Button
+            android:id="@+id/katakana_ke"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ケ\n[ke]"/>
+
+        <Button
+            android:id="@+id/katakana_ko"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="コ\n[ko]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_sa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="サ\n[sa]"/>
+
+        <Button
+            android:id="@+id/katakana_shi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="シ\n[shi]"/>
+
+        <Button
+            android:id="@+id/katakana_su"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ス\n[su]"/>
+
+        <Button
+            android:id="@+id/katakana_se"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="セ\n[se]"/>
+
+        <Button
+            android:id="@+id/katakana_so"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ソ\n[so]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_ta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="タ\n[ ta ]"/>
+
+        <Button
+            android:id="@+id/katakana_chi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="チ\n[chi]"/>
+
+        <Button
+            android:id="@+id/katakana_tsu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ツ\n[tsu]"/>
+
+        <Button
+            android:id="@+id/katakana_te"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="テ\n[ te ]"/>
+
+        <Button
+            android:id="@+id/katakana_to"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ト\n[ to ]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_na"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ナ\n[na]"/>
+
+        <Button
+            android:id="@+id/katakana_ni"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ニ\n[ ni ]"/>
+
+        <Button
+            android:id="@+id/katakana_nu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ヌ\n[nu]"/>
+
+        <Button
+            android:id="@+id/katakana_ne"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ネ\n[ne]"/>
+
+        <Button
+            android:id="@+id/katakana_no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ノ\n[no]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_ha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ハ\n[ha]"/>
+
+        <Button
+            android:id="@+id/katakana_hi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ヒ\n[ hi ]"/>
+
+        <Button
+            android:id="@+id/katakana_fu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="フ\n[ fu ]"/>
+
+        <Button
+            android:id="@+id/katakana_he"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ヘ\n[he]"/>
+
+        <Button
+            android:id="@+id/katakana_ho"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ホ\n[ho]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_ma"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="マ\n[ma]"/>
+
+        <Button
+            android:id="@+id/katakana_mi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ミ\n[mi]"/>
+
+        <Button
+            android:id="@+id/katakana_mu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ム\n[mu]"/>
+
+        <Button
+            android:id="@+id/katakana_me"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="メ\n[me]"/>
+
+        <Button
+            android:id="@+id/katakana_mo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="モ\n[mo]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_ya"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ヤ\n[ ya ]"/>
+
+        <Button
+            android:id="@+id/katakana_yu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ユ\n[yu]"/>
+
+        <Button
+            android:id="@+id/katakana_yo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ヨ\n[yo]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_ra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ラ\n[ ra ]"/>
+
+        <Button
+            android:id="@+id/katakana_ri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="リ\n[ ri ]"/>
+
+        <Button
+            android:id="@+id/katakana_ru"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ル\n[ ru ]"/>
+
+        <Button
+            android:id="@+id/katakana_re"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="レ\n[ re ]"/>
+
+        <Button
+            android:id="@+id/katakana_ro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ロ\n[ ro ]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/katakana_wa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ワ\n[wa]"/>
+
+        <Button
+            android:id="@+id/katakana_wo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:gravity="center_horizontal"
+            android:text="ヲ\n[wo]"/>
+
+        <Button
+            android:id="@+id/katakana_n"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#007354"
+            android:text="ン\n[ n ]"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=""
+            android:padding="20dp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=""
+            android:padding="20dp"
+            android:textSize="18sp" />
+    </LinearLayout>
+</LinearLayout>

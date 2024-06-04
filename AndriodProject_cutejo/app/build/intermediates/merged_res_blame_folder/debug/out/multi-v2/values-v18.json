@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "kr.ac.yuhan.cs.andriodproject_cute_jo.app-mergeDebugResources-29:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\YUHAN\\.gradle\\caches\\transforms-4\\5ac6233d48940d8f956c3ca60f3dfcd0\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
